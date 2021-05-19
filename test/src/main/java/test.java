@@ -6,4 +6,6 @@
  **/
 public class test {
 String str;
+    String str1;
+    String str2;
 }
